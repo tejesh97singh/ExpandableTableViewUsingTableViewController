@@ -1,0 +1,6 @@
+framework module Pods_ExpandingTableView_ExpandingTableViewUITests {
+  umbrella header "Pods-ExpandingTableView-ExpandingTableViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
